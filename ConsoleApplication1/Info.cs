@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         public int Frequency { get; set; }
         public string Symbol { get; set; }
         //info small
-        //info big
+        //info big//
 
     }
 }
